@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "983295411559",
+    "firebase_url": "https://smartbuy-1d04a.firebaseio.com",
+    "project_id": "smartbuy-1d04a",
+    "storage_bucket": "smartbuy-1d04a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983295411559:android:03aeae3453a4bf38",
+        "android_client_info": {
+          "package_name": "com.example.smartbuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983295411559-4ot26uidohg7or9725kc4ovhd990ug08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartbuy",
+            "certificate_hash": "e2265170f7b4dd9c14fc8a684a367496d0ef10f6"
+          }
+        },
+        {
+          "client_id": "983295411559-l2gv3nh4gaon2m19g2qbkne9vf48los1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ORZLfi4-ri2VjJiR5cMX5V7X3GeM_6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983295411559-l2gv3nh4gaon2m19g2qbkne9vf48los1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home"
+            android:icon="@drawable/ic_home" />
+        <item
+            android:id="@+id/nav_bid"
+            android:icon="@drawable/outline_gavel_24"
+            android:title="@string/bid" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/outline_mood_24"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_wishlist"
+            android:icon="@drawable/wishlist"
+            android:title="@string/wishlist" />
+        <item
+            android:id="@+id/nav_items"
+            android:icon="@drawable/ic_items"
+            android:title="@string/items" />
+        <item
+            android:id="@+id/nav_sell"
+            android:icon="@drawable/outline_add_shopping_cart_24"
+            android:title="@string/sell_on" />
+        <item
+            android:icon="@drawable/ic_exit"
+            android:id="@+id/log_out"
+            android:title="@string/log_out" />
+    </group>
+</menu>

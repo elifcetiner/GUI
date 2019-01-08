@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your bid (in ₹)"
+        android:layout_margin="@dimen/default_margin">
+
+        <EditText
+            android:id="@+id/bid_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:tag="₹"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SmartBuy</string>
+    <string name="bid">My Bids</string>
+    <string name="profile">My Profile</string>
+    <string name="wishlist">My Wishlist</string>
+    <string name="orders">My Orders</string>
+    <string name="sell">Sell on Dolap</string>
+    <string name="about">About Us</string>
+    <string name="new_user_register">New User?-Register</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="home">Home</string>
+    <string name="log_out">Log Out</string>
+    <string name="New">New</string>
+    <string name="Women">Women</string>
+    <string name="Men">Men</string>
+    <string name="Sale">Sale</string>
+    <string name="items">My Items</string>
+    <string name="make_bid">Make a Bid</string>
+    <string name="sell_on">sell</string>
+</resources>
